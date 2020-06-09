@@ -1,0 +1,23 @@
+{
+  "name": "change_background",
+  "version": "1.0.0",
+  "description": "Clicking button will generate a random hexadecimal color",
+  "main": "script.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strawhatcoder/random-color.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strawhatcoder/random-color/issues"
+  },
+  "homepage": "https://github.com/strawhatcoder/random-color#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
