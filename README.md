@@ -1,2 +1,3 @@
 # Random Color Generator
-Clicking button will generate a random hexadecimal color
+
+By clicking onto the button, it will generate a random color and display it's hexadecimal value underneath it.
